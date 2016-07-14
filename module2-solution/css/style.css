@@ -8,13 +8,12 @@ h1, div, p {
 }
 h1, .title {
   font-family: OpenSans, sans-serif;
+  text-align: center;
 }
 h1 {
-  ma
-  width: 200px;
   text-align: center;
   font-size: 175%;
-  margin-bottom: 20px
+  margin-bottom: 50px
 }
 .container {
   /*padding: 1em;*/
